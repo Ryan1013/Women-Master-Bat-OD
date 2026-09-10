@@ -155,7 +155,7 @@ video_links = {
         "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2025/metro-bank-one-day-cup---women-league-2/sussex-sharks-women-v-middlesex-women---25-aug-2025/VPM_260212_SUSW_MIDW_PLAYLIST_300.mp4",
     },
     "PN Sproul": {
-        "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260212_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10.mp4",
+        "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260910_PLAYLIST_1080.mp4",
         "boundary": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260212_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11.mp4"
     },
     "R Pindoria": {
